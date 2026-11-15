@@ -1,4 +1,4 @@
-
+///https://youtube.com/shorts/HDQSlq-oMXk?si=hbD079kWXXh8G6-g
 let objJuego;
 let imgArbusto, imgPasto, imgCorazon;
 let imgFrente, imgEspalda, imgIzquierda, imgDerecha;
